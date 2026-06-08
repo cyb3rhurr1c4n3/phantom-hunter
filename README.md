@@ -32,6 +32,22 @@ The tool was developed as the defensive counterpart to **Phantom Hollowing**, a 
 
 ---
 
+## 📽️ Demo
+
+### 1. Static Analysis with Phantom Hunter
+
+[![1 - Static Analysis with Phantom Hunter](https://img.youtube.com/vi/_02ogDcEM5U/0.jpg)](https://youtu.be/_02ogDcEM5U)
+
+### 2. Dynamic Analysis (Snapshot Mode) with Phantom Hunter
+
+[![2 - Dynamic Analysis (Snapshot Mode) with Phantom Hunter](https://img.youtube.com/vi/GSANbS4zsUY/0.jpg)](https://youtu.be/GSANbS4zsUY)
+
+### 3. Dynamic Analysis (Monitor Mode) with Phantom Hunter
+
+[![3 - Dynamic Analysis (Monitor Mode) with Phantom Hunter](https://img.youtube.com/vi/yWhWIemLL8g/0.jpg)](https://youtu.be/yWhWIemLL8g)
+
+---
+
 ## 🧠 How It Works
 
 ### Core insight: RIP → MEM_PRIVATE
